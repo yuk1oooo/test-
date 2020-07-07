@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "New Unity Project",
+"productVersion": "1.1.2-preview.1",
+"dataUrl": "FpsShooter-Tutorial.data.unityweb",
+"wasmCodeUrl": "FpsShooter-Tutorial.wasm.code.unityweb",
+"wasmFrameworkUrl": "FpsShooter-Tutorial.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
